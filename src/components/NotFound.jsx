@@ -25,7 +25,6 @@ const Heading = styled.div`
    font-size: 3em;
    color: crimson;
    font-family: 'Snap ITC', Tahoma, Geneva, Verdana, sans-serif;
-   
 `
 
 const Para = styled.div`
