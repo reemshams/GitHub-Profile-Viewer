@@ -4,7 +4,7 @@ This is a small React project where we make use of the `GitHub API` to view a pe
 
 Here is a demo of the application:
 
-![react_github_previewer](https://i.imgur.com/SsL6NTw.gifv)
+![](https://i.imgur.com/srIgIVa.gif)
 
 **To get started coding on this project, remember the following steps**:
 1. `npm install` the first time you clone this repo
